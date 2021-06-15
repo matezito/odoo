@@ -1,5 +1,15 @@
 # Odoo Wordpress Plugin
 
+**Español**
+
+Este plugin fue desarrollado como parte de una estrategia **Open Source** para medios de todo el mundo basada en el CMS **WordPress**.  
+Haciendo click en este [enlace](https://tiempoar.com.ar/proyecto-colaborativo/) se puede encontrar más información sobre el proyecto, así como las lista de plugins que complementan a este para tener un sitio completamente funcional.
+
+**English**
+
+This plugin was developed as part of an **Open Source** strategy for worldwide media based on the CMS **WordPress**.
+By clicking on this [link](https://tiempoar.com.ar/proyecto-colaborativo/) you can find more information about the project, as well as the list of complements that complement it to have a fully functional site.
+
 ## Intro
 
 ES:
@@ -12,7 +22,7 @@ https://www.odoo.com/documentation/13.0/webservices/odoo.html
 
 Se usa la biblioteca Ripcord: [Ver en GitHub](https://github.com/poef/ripcord)
 
-El servidor en caso de ser apache debe tener activa la extensión XML-RPC.
+El servidor debe tener activa la extensión XML-RPC.
 
 
 EN:
@@ -25,7 +35,7 @@ https://www.odoo.com/documentation/13.0/webservices/odoo.html
 
 Ripcord library is used: [Go to GitHub](https://github.com/poef/ripcord)
 
-In case of being an Apache server, it must have the XML-RPC extension active.
+The server must have the XML-RPC extension active.
 
 
 ## Activación / Activate
