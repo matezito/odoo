@@ -67,7 +67,3 @@ Once the plugin is setup, in the **__Contacts_** menu we can synchronize all the
 When using **Woocommerce**, customers who complete the orders also BECOME Odoo customers.
 
 ### Thank you!
-
-Juan Iriart - [Genosha DEV](https://genosha.com.ar)
-
-![Genosha](genosha-logo.png)
