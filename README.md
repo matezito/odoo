@@ -1,14 +1,23 @@
 # Odoo Wordpress Plugin
 
-**Español**
-
 Este plugin fue desarrollado como parte de una estrategia **Open Source** para medios de todo el mundo basada en el CMS **WordPress**.  
 Haciendo click en este [enlace](https://tiempoar.com.ar/proyecto-colaborativo/) se puede encontrar más información sobre el proyecto, así como las lista de plugins que complementan a este para tener un sitio completamente funcional.
 
-**English**
+## Instalación
 
-This plugin was developed as part of an **Open Source** strategy for worldwide media based on the CMS **WordPress**.
-By clicking on this [link](https://tiempoar.com.ar/proyecto-colaborativo/) you can find more information about the project, as well as the list of complements that complement it to have a fully functional site.
+Para instalar el plugin, usted puede clonar desde el siguiente repositorio: [https://github.com/TiempoArgentino/ta-tweets-search](https://github.com/TiempoArgentino/ta-tweets-search) con el comando `$ git clone https://github.com/TiempoArgentino/ta-tweets-search.git` o descargar el zip que proporciona el respositorio mismo. 
+
+Una vez clonado o descargado y descomprimido, se debe renombrar la carpeta con el nombre **odoo** y moverla dentro de **`wp-content/plugins`**.
+
+Para comenzar a configurar, debe activarlo desde el menú de plugins.
+
+## Install
+
+To install the plugin, you can clone from the following repository: [https://github.com/TiempoArgentino/ta-tweets-search-lex](https://github.com/TiempoArgentino/ta-tweets-search) with the command `$ git clone https://github.com/TiempoArgentino/ta-tweets-search.git` or download the zip provided by the repository itself.
+
+Once cloned or downloaded and unzipped, the folder should be renamed **odoo** and moved into **`wp-content/plugins`**.
+
+To start configuring, you must activate it from the plugins menu.
 
 ## Intro
 
