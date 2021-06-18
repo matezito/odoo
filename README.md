@@ -5,7 +5,7 @@ Haciendo click en este [enlace](https://tiempoar.com.ar/proyecto-colaborativo/) 
 
 ## Instalación
 
-Para instalar el plugin, usted puede clonar desde el siguiente repositorio: [https://github.com/TiempoArgentino/ta-tweets-search](https://github.com/TiempoArgentino/ta-tweets-search) con el comando `$ git clone https://github.com/TiempoArgentino/ta-tweets-search.git` o descargar el zip que proporciona el respositorio mismo. 
+Para instalar el plugin, usted puede clonar desde el siguiente repositorio: [https://github.com/TiempoArgentino/ta-odoo](https://github.com/TiempoArgentino/ta-odoo) con el comando `$ git clone https://github.com/TiempoArgentino/ta-odoo.git` o descargar el zip que proporciona el respositorio mismo. 
 
 Una vez clonado o descargado y descomprimido, se debe renombrar la carpeta con el nombre **odoo** y moverla dentro de **`wp-content/plugins`**.
 
@@ -13,7 +13,7 @@ Para comenzar a configurar, debe activarlo desde el menú de plugins.
 
 ## Install
 
-To install the plugin, you can clone from the following repository: [https://github.com/TiempoArgentino/ta-tweets-search-lex](https://github.com/TiempoArgentino/ta-tweets-search) with the command `$ git clone https://github.com/TiempoArgentino/ta-tweets-search.git` or download the zip provided by the repository itself.
+To install the plugin, you can clone from the following repository: [https://github.com/TiempoArgentino/ta-odoo-lex](https://github.com/TiempoArgentino/ta-odoo) with the command `$ git clone https://github.com/TiempoArgentino/ta-odoo.git` or download the zip provided by the repository itself.
 
 Once cloned or downloaded and unzipped, the folder should be renamed **odoo** and moved into **`wp-content/plugins`**.
 
